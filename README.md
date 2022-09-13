@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on JavaScript/css
-- 📫 How to reach me (Saliu.habib50@yahoo.com)...mail
+- 📫 How to reach me (Saliu.habib50@yahoo.com)...mail.
 
 
 <!---
